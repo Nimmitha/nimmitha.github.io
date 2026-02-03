@@ -7,6 +7,13 @@ title: Nimmitha Karunarathna
 **Data Scientist — Research Engineer**  
 Knoxville, TN • (865) 236-8673 • wkarunar@vols.utk.edu  
 [LinkedIn](https://linkedin.com/in/nimmitha) • [GitHub](https://gitlab.cern.ch/nkarunar)
+**Portfolio**
+- [ML-based Signal Discrimination](projects/ml-signal-discrimination.html)
+- [High-Throughput Data Processing](projects/high-throughput-processing.html)
+
+<!-- Add this when you upload the PDF -->
+<!-- [Download CV](assets/cv/Resume.pdf) -->
+
 
 ---
 
