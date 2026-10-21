@@ -16,9 +16,9 @@ The Pixel Luminosity Telescope (PLT) is a CMS detector built from silicon pixel 
 - Handled routine PLT monitoring and took CMS control-room shifts
 
 ## Team work
-- Part of the BRIL team that sets CMS's absolute luminosity scale: fitted Run-3 van der Meer scan data, estimated beam-induced backgrounds, and performed online visible-cross-section calibrations of the PLT, BCM1F, HFET, and HFOC luminometers
-- Built a file watcher that runs the emittance-scan analysis as new files arrive and e-mails alerts for missing tables and data-quality problems, replacing manual processing
-- Physics point of contact for the shared analysis framework (VdMFramework)
+- Part of the BRIL team that sets CMS's absolute luminosity scale: fitted Run-3 van der Meer scan data, estimated beam-induced backgrounds, and performed online visible-cross-section calibrations of the luminometers
+- Built an automated analysis chain that processes emittance-scan files as they arrive, replacing manual processing
+- Maintained the shared calibration software (VdMFramework): fixes, features, physics updates
 - Directed a student's development of an HTCondor tool for large-scale reprocessing and extended it
 
 ## Tools
