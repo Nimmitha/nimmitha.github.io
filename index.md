@@ -44,7 +44,7 @@ Most of my CMS code (luminosity calibration and the J/ψ luminosity analysis) li
 
 ## Education
 - **Ph.D. in Physics**, University of Tennessee, Knoxville, August 2026 (minor in Computational Science). Dissertation: *Precision Luminosity Determination at the CMS Experiment*
-- **M.S. in Physics**, University of Tennessee, Knoxville, May 2024
+- **M.S. in Physics**, University of Tennessee, Knoxville, completed 2022, conferred May 2026
 - **B.Sc. Special Degree with Honors in Physics**, University of Colombo, January 2017
 
 ---
