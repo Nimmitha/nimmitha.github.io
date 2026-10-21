@@ -6,7 +6,7 @@ title: Nimmitha Karunarathna
 # Nimmitha Karunarathna
 **Experimental particle physicist, CMS experiment at CERN**  
 Postdoctoral Research Associate, University of Tennessee, Knoxville  
-[wkarunar@utk.edu](mailto:wkarunar@utk.edu) • [GitHub](https://github.com/Nimmitha) • [INSPIRE](https://inspirehep.net/authors/2599669) • [ORCID](https://orcid.org/0000-0002-3412-0508)
+[wkarunar@utk.edu](mailto:wkarunar@utk.edu) • [GitHub](https://github.com/Nimmitha) • [INSPIRE](https://inspirehep.net/authors/2599669) • [ORCID](https://orcid.org/0000-0002-3412-0508) • [Publications and talks](publications.html)
 
 ---
 
