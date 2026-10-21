@@ -4,86 +4,73 @@ title: Nimmitha Karunarathna
 ---
 
 # Nimmitha Karunarathna
-**Data Scientist — Research Engineer**  
-Knoxville, TN • (865) 236-8673 • wkarunar@vols.utk.edu  
-[LinkedIn](https://linkedin.com/in/nimmitha) • [GitHub](https://gitlab.cern.ch/nkarunar)
-**Portfolio**
-- [ML-based Signal Discrimination](projects/ml-signal-discrimination.html)
-- [High-Throughput Data Processing](projects/high-throughput-processing.html)
-
-<!-- Add this when you upload the PDF -->
-<!-- [Download CV](assets/cv/Resume.pdf) -->
-
+**Experimental particle physicist, CMS experiment at CERN**  
+Postdoctoral Research Associate, University of Tennessee, Knoxville  
+[wkarunar@utk.edu](mailto:wkarunar@utk.edu) • [GitHub](https://github.com/Nimmitha) • [INSPIRE](https://inspirehep.net/authors/2599669) • [ORCID](https://orcid.org/0000-0002-3412-0508)
 
 ---
 
 ## About
-I work at the intersection of experimental high-energy physics, data analysis, and reproducible software workflows. My focus is building robust analysis pipelines and machine-learning tools for signal/background discrimination in large scientific datasets.
+I am an experimental particle physicist (Ph.D., University of Tennessee, 2026) working on precision luminosity measurement, detector calibration, and machine-learning-based searches at the CMS experiment. I build measurement and analysis pipelines for large detector datasets, with careful attention to uncertainties and validation, mostly in Python and C++.
 
 ---
 
-## Technical Skills
-- **Programming:** Python, C++, SQL, Bash  
-- **Data & ML:** NumPy, Pandas, scikit-learn, PyTorch, XGBoost  
-- **Scientific Computing:** ROOT, PyROOT, CMSSW, Coffea  
-- **Data Analysis:** statistical modeling, regression, uncertainty estimation  
-- **Tools:** Git, Linux, HPC clusters, Matplotlib  
+## Research
+- [Luminosity from J/ψ counting](projects/jpsi-luminosity.html): an independent luminosity measurement from reconstructed dimuon decays
+- [A blinded search for H → ZJ/ψ with machine learning](projects/rare-higgs-ml.html)
+- [Pixel Luminosity Telescope calibration and monitoring](projects/plt-calibration.html)
+
+CMS results shown here are collaboration results unless a page says the work is mine. Analyses that are under collaboration review are described without numbers.
 
 ---
 
-## Experience
-### PhD Researcher — Data Analysis & Machine Learning (2019–Present)
-**University of Tennessee, Knoxville**
-- Designed and executed large-scale data analysis pipelines on multi-terabyte datasets
-- Built ML classifiers to separate signal and background events
-- Performed statistical modeling, regression fits, and uncertainty propagation
-- Developed end-to-end workflows for simulation, reconstruction, and validation
-- Optimized processing using vectorized operations and batch processing
-- Collaborated in a 1000+ member international collaboration (CMS)
+## Software
+- [autohep](https://github.com/Nimmitha/autohep): a framework, built with Claude Code and modeled on a published method, for gated and auditable analysis workflows, with a test suite (AI-assisted research code)
+- [mc_miniAOD_prep](https://github.com/Nimmitha/mc_miniAOD_prep): helper scripts for private CMS Monte Carlo production
+- [PLTOffline](https://github.com/Nimmitha/PLTOffline): my analysis branches in the Pixel Luminosity Telescope offline software
+- [superseparation_background](https://gitlab.cern.ch/nkarunar/superseparation_background) (CERN GitLab): background analysis for vdM super-separation scans
+
+Most of my CMS code (luminosity calibration and the J/ψ luminosity analysis) lives in CERN GitLab and is not public.
 
 ---
 
-## Selected Projects
-### ML-based Signal Discrimination
-- Trained neural networks and random forest models on high-dimensional datasets
-- Performed feature engineering and evaluated performance using ROC curves
-- Integrated ML outputs into statistical analysis workflows
-
-### High-Throughput Data Processing
-- Processed millions of events using Python/C++ analysis pipelines
-- Implemented custom binning and caching strategies to reduce runtime
-
-> Tip: Link each project to a repo later:
-> - **Code:** (link)
-> - **Short write-up:** (link)
-> - **Results/plots:** (link)
+## Skills
+- **Languages and libraries:** Python (pandas, NumPy, uproot, scikit-learn, XGBoost, pyhf, iminuit), C++, ROOT, Bash
+- **Methods:** likelihood fitting, uncertainty quantification, classifier validation, calibration, drift correction
+- **Tools:** CMS Combine, git/GitLab, HTCondor, grid computing (CRAB), Linux
+- **Learning:** Verilog and FPGA design on a development board
 
 ---
 
 ## Education
-- **PhD in Physics**, University of Tennessee, Knoxville — *Expected 2025*  
-- **B.Sc. in Physics (Special)**, University of Colombo, Sri Lanka — *Jan 2017*
+- **Ph.D. in Physics**, University of Tennessee, Knoxville, August 2026 (minor in Computational Science). Dissertation: *Precision Luminosity Determination at the CMS Experiment*
+- **M.S. in Physics**, University of Tennessee, Knoxville, May 2024
+- **B.Sc. Special Degree with Honors in Physics**, University of Colombo, January 2017
 
 ---
 
-## Publications (selected)
-1. Karunarathna, Nimmitha. “Run 3 Luminosity Measurements with the Pixel Luminosity Telescope.” *Proceedings of Science* 414 (2022). DOI: 10.22323/1.414.0936  
-2. CMS Collaboration. *Luminosity Measurement in Proton-Proton Collisions at 13.6 TeV in 2022 at CMS.*  
-3. CMS BRIL Collaboration. “The Pixel Luminosity Telescope…” *Eur. Phys. J. C* 83, no. 7 (2023). DOI: 10.1140/epjc/s10052-023-11713-6
+## Publications and notes
+1. Karunarathna, N. "Run 3 Luminosity Measurements with the Pixel Luminosity Telescope." *Proceedings of Science* 414 (ICHEP2022) 936 (2022). [doi:10.22323/1.414.0936](https://doi.org/10.22323/1.414.0936)
+2. Karunarathna, N. and Spanier, S. "Luminosity Determination with J/ψ Counting." CMS Analysis Note AN-25-127, under review (internal).
+3. CMS Collaboration. "Luminosity Measurement in Proton-Proton Collisions at 13.6 TeV in 2022 at CMS." [CMS-PAS-LUM-22-001](https://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/LUM-22-001/) (2024).
+4. CMS BRIL Collaboration. "The Pixel Luminosity Telescope: A Detector for Luminosity Measurement at CMS Using Silicon Pixel Sensors." *Eur. Phys. J. C* 83, 673 (2023). [doi:10.1140/epjc/s10052-023-11713-6](https://doi.org/10.1140/epjc/s10052-023-11713-6)
+
+As a CMS member I am on the collaboration author list; the full list is on [INSPIRE](https://inspirehep.net/authors/2599669).
 
 ---
 
-## Professional Activities
-- **SESAPS 2021** — Talk — Tallahassee, FL  
-- **ICHEP 2022** — Poster, Proceedings — Bologna, Italy  
-- **APS April Meeting 2023** — Talk — Minneapolis, MN  
-- **CMS Data Analysis School @ CERN 2023** — Group Project, Talk — CERN  
-- **CERN–Fermilab HCP Summer School 2023** — CERN  
-- **APS April Meeting 2024** — Talk — Sacramento, CA  
-- **APS April Meeting 2025** — Talk — Anaheim, CA
+## Talks
+- **CMS approval talk, LUM-22-001** (Feb 23, 2024): 2022 luminosity measurement, on behalf of the Lumi POG and BRIL DPG
+- **APS March Meeting 2025**, Anaheim, CA: *Luminosity Measurement for the CMS Experiment*
+- **APS April Meeting 2024** (virtual): *Luminosity Measurements with the CMS Detector*
+- **APS April Meeting 2023** (virtual): *Online Luminosity Measurements at CMS during LHC Run-3*
+- **ICHEP 2022**, Bologna, Italy: poster, *Run 3 luminosity measurements with the Pixel Luminosity Telescope*
+- **SESAPS 2021**, Tallahassee, FL: *Studies with the Pixel Luminosity Telescope of CMS*
+- Schools: CMS Data Analysis School at CERN (June 2023, group project and talk); CERN-Fermilab Hadron Collider Physics Summer School (August 2023)
 
 ---
 
-## Professional Memberships
-- American Physical Society (APS) — 2022–Present  
-- Sigma Pi Sigma — 2022–Present
+## Teaching and service
+- Teaching assistant: University of Tennessee (2019–2021), University of Colombo, Faculty of Technology (2018–2019), University of Colombo (2017–2018)
+- Helped with logistics for the VERTEX 2025 workshop, Knoxville (August 2025)
+- Member of the American Physical Society and Sigma Pi Sigma
