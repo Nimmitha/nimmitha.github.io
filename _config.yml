@@ -3,3 +3,6 @@ title: Nimmitha Karunarathna
 description: Experimental particle physics, detector calibration, ML-based analysis, and scientific software
 url: https://nimmitha.github.io
 image: /assets/social/site-card.png
+
+exclude:
+  - README.md
