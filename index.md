@@ -74,3 +74,7 @@ As a CMS member I am on the collaboration author list; the full list is on [INSP
 - Teaching assistant: University of Tennessee (2019–2021), University of Colombo, Faculty of Technology (2018–2019), University of Colombo (2017–2018)
 - Helped with logistics for the VERTEX 2025 workshop, Knoxville (August 2025)
 - Member of the American Physical Society and Sigma Pi Sigma
+
+---
+
+<small>Last updated: {{ site.time | date: "%Y-%m-%d %H:%M" }} UTC</small>
